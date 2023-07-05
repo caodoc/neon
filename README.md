@@ -1,1 +1,1 @@
-# Một web từ Ducca T2K13 & MTV T2K13 chúc các anh chị K12 NQD thi tốt trong kì thi THPTQD 2023
+## Một web từ Ducca & MTV T2K13 chúc các anh chị K12 NQD thi tốt trong kì thi THPTQG 2023
