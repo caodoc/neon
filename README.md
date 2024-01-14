@@ -1,2 +1,7 @@
-## Một website được code bởi caodoc và Mai Thành Vinh T2K13 chúc các anh chị K12 NQD thi tốt trong kì thi THPTQG 2023!
+# Neon
+
+<hr>
+
+A good luck website me and my friend made for K12 NQD on THPTQG 2023. All the best!
+
 ![](https://img.shields.io/github/last-commit/caodoc/neon?style="flat-square"&color="94a4ff")
